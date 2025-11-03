@@ -1,4 +1,3 @@
-// Package: com.hero.game.heroes
 package com.hero.game.heroes;
 
 import com.hero.game.observers.Observer;

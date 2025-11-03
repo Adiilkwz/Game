@@ -1,4 +1,3 @@
-// Package: com.hero.game.game
 package com.hero.game.game;
 
 import com.hero.game.decorators.DamageBoostDecorator;
